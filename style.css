@@ -14,7 +14,7 @@ h3 {
     text-align: center;
 }
 
-.score {
+#home-score, #guest-score {
     background: #0a0001;
     border-radius: 5px;
     font-size: 90px;
